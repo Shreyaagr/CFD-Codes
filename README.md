@@ -1,2 +1,2 @@
 # CFD-Codes
-CFD codes which I wrote during my UG studies.
+CFD codes and related reports which I wrote during my UG studies.
