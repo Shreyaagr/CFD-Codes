@@ -1,3 +1,7 @@
+! Multigrid code by Shreya Agrawal (160662)
+! in Fortran 95
+! Problem is stated in the Mutigrid-report pdf file.
+
 program main
 
 implicit none
